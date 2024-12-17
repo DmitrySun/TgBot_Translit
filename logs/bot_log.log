@@ -1,0 +1,6 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @transliterate_cyrillic_latin_bot id=7374781289 - 'Transliter_bot'
+INFO:root:User 186649830: Юля Мелкозерова --> Iulia Melkozerova
+INFO:aiogram.event:Update id=987762502 is handled. Duration 202 ms by bot id=7374781289
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Polling stopped for bot @transliterate_cyrillic_latin_bot id=7374781289 - 'Transliter_bot'
